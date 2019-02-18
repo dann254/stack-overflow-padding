@@ -32,16 +32,17 @@ and I saved the one liner too: 🤓
 
 ![sample3](img/3.png)
 
-### Here is how to set up or not, I don't know what you want to do. It's not like I can read minds or anything like that, or can I. 👀
+### Here is how to set up, or not, I don't know what you want to do. It's not like I can read minds or anything like that, or can I. 👀
 
 - Clone this repo or download it, or copy every file one by one.
 - Open chrome or switch to it if you had it Open
 - Enter `chrome://extensions/` on a new tab or an old one.
-- Click on `load unpacked` and look for this extension wherever you cloned it to. If you don't know where, you are wrapped helically around an inclined plane 🔩. Coz you have to cone it again or something.
+- Click on `load unpacked` and look for this extension wherever you cloned it to. If you don't know where, you are wrapped helically around an inclined plane 🔩. Coz you have to clone it again or something.
 - Once you are done, The extension should work every time you are on stackoverflow.
+- If you make a change on the extension you have to refresh it, every time 🔄.
 
 *** Insert celebrating noises here ***
 
 👀
 
-*** Celebrating Noise intensifies ***
+*** Celebrating Noise intensify ***
